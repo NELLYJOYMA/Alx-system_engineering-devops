@@ -1,2 +1,4 @@
 #!/bin/bash
-getent group |cut -d: -f1
+chgrp.
+
+
