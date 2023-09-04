@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1A | wc -l
+dir_count=0
