@@ -1,2 +1,2 @@
 #!/bin/bash
-$ find <PATH> -type f/wc -l
+IFS=':' read -ra path_dirs <<< "$PATH"
